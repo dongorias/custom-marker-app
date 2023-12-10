@@ -2,7 +2,7 @@
 
 Custome marker map app
 
-⚠️ Initialize Google Maps in your application. Make sure to add your Google Maps API key. You can follow the instructions [here](https://github.com/flutter/packages/tree/main/packages/google_maps_flutter/google_maps_flutter#getting-started)
+⚠️ Make sure to add your Google Maps API key. You can follow the instructions [here](https://github.com/flutter/packages/tree/main/packages/google_maps_flutter/google_maps_flutter#getting-started)
 
 ## Getting Started
 

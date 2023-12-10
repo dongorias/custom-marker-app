@@ -4,6 +4,8 @@ Custome marker map app
 
 ⚠️ Make sure to add your Google Maps API key. You can follow the instructions [here](https://github.com/flutter/packages/tree/main/packages/google_maps_flutter/google_maps_flutter#getting-started)
 
+<img width="469" alt="Screenshot 2023-12-10 at 13 49 04" src="https://github.com/dongorias/custom-marker-app/assets/37826074/ebe282af-9712-4516-8162-29c617aa9f77">
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
